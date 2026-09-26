@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Windows junk
+Thumbs.db
+credentials.json
+token.json
+
+# Runtime logs
+*.jsonl
+
+# macOS junk
+.DS_Store

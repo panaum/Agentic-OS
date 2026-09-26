@@ -45,9 +45,9 @@ Prerequisites
 
     # Clone
 
-    git clone https://github.com/tabiramir/Agentic-Framework-An-Intent-Driven-Multi-Agent-Computing-Environment.git
+    git clone https://github.com/panaum/Agentic-OS.git
 
-    cd Agentic-Framework-An-Intent-Driven-Multi-Agent-Computing-Environment
+    cd Agentic-OS
 
     # Create Virtual Environment
 
